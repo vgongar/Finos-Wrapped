@@ -1,0 +1,8 @@
+streamlit
+streamlit-authenticator
+st-theme
+pandas
+numpy
+altair
+emoji
+google-cloud-storage
